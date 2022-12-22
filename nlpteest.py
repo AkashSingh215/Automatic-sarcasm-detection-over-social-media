@@ -1,6 +1,6 @@
 # # !pip install nltk
 # # !pip install emoji
-# # !pip install autocorrec\t
+# # !pip install autocorrect
 # # !pip install xgboost
 # # !pip install -U spacy
 # # nltk.download('all-corpora')
